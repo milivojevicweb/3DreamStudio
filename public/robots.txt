@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://3dreamsp.000webhostapp.com/sitemap.xml
